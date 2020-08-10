@@ -3,9 +3,9 @@
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-This is my Challenge from frontendmentor.io
+This Challenge is from frontendmentor.io
 
-Here's my live Web page  
+You can check my live Web page here~ https://techcircule.github.io/Section-card-01/
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
